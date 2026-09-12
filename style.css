@@ -1,0 +1,13 @@
+ #counter-box {
+    width: 150px;
+    height: 100px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#count {
+    font-size: 40px;
+}
